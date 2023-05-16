@@ -11,7 +11,7 @@ function carregar() {
         img.src = 'imagens/tarde.jpg'
         document.body.style.backgronud = '#b9846f'
     } else {
-        img.scr = 'imagens/noite.jpg'
+        img.src = 'imagens/noite.jpg'
         document.body.style.background = '#515154'
     }
 }    
